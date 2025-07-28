@@ -18,10 +18,6 @@ Users can enter participant details like name, age, art type, contact, and addre
 2. Make sure MySQL is running and table `participants` is created
 3. Run `ArtCompetitionGUI.java`
 
-## 📸 Screenshot
-_Add screenshot here later if needed_
-
----
 
 Made with ❤️ by Tanvi Naik
 
